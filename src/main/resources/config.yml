@@ -1,0 +1,19 @@
+#{player} = player name
+#{lives} = players Lives
+
+#the default amount of lives when a player first joins the server
+defaultlives: 3
+
+#the message on the ban when a player is out of lives
+bannedmessage: "&aSorry {player}, You are out of lives"
+
+livesmessage: "&bYou have {lives} Lives"
+livesplayer: "&b{player} has {lives} Lives"
+
+# DATABASE
+
+HOST: "localhost"
+PORT: 3306
+DATABASE: "mineskieseco"
+USERNAME: "root"
+PASSWORD: ""

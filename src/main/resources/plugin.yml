@@ -1,0 +1,10 @@
+name: VoltedLives
+version: '${project.version}'
+main: me.lewi.volted.Lives
+authors: [ LewiDev ]
+description: Lives Plugin for Volted
+commands:
+  lives:
+    description: "see a players lives"
+
+
